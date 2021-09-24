@@ -10,4 +10,4 @@ title = "Perkenalan"
 toc = ""
 
 +++
-    
+Hobi saya banyak salah satunya adalah menonoton dan bermain bola dua hal itu adalah kesenengan yang sangat mendalam bagi saya![](/uploads/img_20210515_055510.jpg)
