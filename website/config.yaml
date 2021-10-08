@@ -30,7 +30,7 @@ params:
 
   # home
   disable_home: false
-  profile_image: "/images/Donii.jpeg"
+  profile_image: "/images/don.jpeg"
   name: "Doni Crisnanda"
   namecolor: ffc107
   profession: "Siswa"
