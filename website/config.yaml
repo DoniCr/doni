@@ -73,7 +73,7 @@ params:
       featuredpoints:
         - point: Lead backend developer for a product.
         - point: Created a frontend design for a product.
-    - company: "Amazon"
+    - company: "Lumajang"
       # id: "amazon-developer" // use this, when you want to change the id(used for navigation)
       role: "Fullstack developer"
       startdate: Feb 2019
